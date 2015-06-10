@@ -5,4 +5,7 @@ set['opsworks']['ruby_version'] = '2.1'
 set[:opsworks][:rails_stack][:name] = 'apache_passenger'
 set[:passenger][:version] = '4.0.48'
 
-default[:deploy][:application_name] = 'offers'
+default[:deploy][:offers][:application_name] = 'offers'
+default[:deploy][:offers][:application_type] = 'rails'
+
+

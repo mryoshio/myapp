@@ -1,9 +1,6 @@
 offers Cookbook
 ===============
-TODO: Enter the cookbook description here.
-
-e.g.
-This cookbook makes your favorite breakfast sandwich.
+This cookbook is for test to deploy to OpsWorks Instances in CustomLayer.
 
 Requirements
 ------------
